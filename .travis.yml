@@ -3,7 +3,7 @@ node_js:
   - "10"
 
 cache:
-  yarn:true        
+  yarn: true        
 install:
   - yarn install
 
