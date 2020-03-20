@@ -1,3 +1,3 @@
 module.exports={
-    publicPath: process.env.NODE_ENV === 'production' ? '/travisci-demo':'/'
+    publicPath: process.env.NODE_ENV === 'production' ? '/travis-demo':'/'
 }
